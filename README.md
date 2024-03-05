@@ -1,7 +1,7 @@
-mlops_main
+Mlops
 ==============================
 
-It is a project basedon mlops
+A project on Mlops
 
 Project Organization
 ------------
